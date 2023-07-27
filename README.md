@@ -20,3 +20,10 @@ Report bugs and features for FreeDrawSimulator app.
 2. Open the appropriate add window, for example, `+PrintText`.
 3. Paste the code using Ctrl+V and edit it as needed.
 
+### How to use custom icons
+1. Open `.../FreeDrawSimulator_Data/Resources` and paste your own icons.
+> Note! It will be possible to use the icon, but it will not appear in the icon selection window!
+
+# Known issues
+- Custom icons are not displayed in the icon window.
+- PrintText shows text over texture.
