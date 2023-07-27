@@ -27,3 +27,12 @@ Report bugs and features for FreeDrawSimulator app.
 # Known issues
 - Custom icons are not displayed in the icon window.
 - PrintText shows text over texture.
+
+# Donate
+If you find this project helpful, consider supporting its development by making a donation through PayPal.
+
+<a href="https://paypal.me/plejader">
+  <img src="https://github.com/jnalepka/FreeDrawSimulator/assets/70645322/cc3bdff2-5891-479d-ae15-74c6654a5796" alt="Donate with PayPal">
+</a>
+
+
