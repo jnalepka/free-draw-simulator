@@ -31,7 +31,7 @@ Report bugs and features for FreeDrawSimulator app.
 # Donate
 If you find this project helpful, consider supporting its development by making a donation through PayPal.
 
-<a href="ttps://paypal.me/plejader">
+<a href="https://paypal.me/plejader">
   <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png" alt="Donate with PayPal" width="250">
 </a>
 
