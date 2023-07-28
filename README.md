@@ -15,6 +15,8 @@ Report bugs and features for FreeDrawSimulator app.
 1. Copy ready code from the Object Manager configurator to simulate the view on the SmartPanel screen.
 2. Create ready code and then paste it into the Object Manager configurator.
 
+ ![image](https://github.com/jnalepka/FreeDrawSimulator/assets/70645322/7032acfb-6087-4d7e-b7b1-5b43309dc7ee)
+
 ### How to edit element inside the code
 1. Cut the line of code using Ctrl+X.
 2. Open the appropriate add window, for example, `+PrintText`.
