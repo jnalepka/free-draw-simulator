@@ -26,7 +26,6 @@ Report bugs and features for FreeDrawSimulator app.
 1. Open `.../Icons` and paste your own icons.
 
 # Known issues
-- Custom icons are not displayed in the icon window.
 - PrintText shows text over texture.
 
 # Donate
