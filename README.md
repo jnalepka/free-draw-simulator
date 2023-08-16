@@ -25,12 +25,13 @@ Report bugs and features for FreeDrawSimulator app.
 Version=1.0
 Type=Application
 Terminal=false
-Exec=/home/ubuntu/Downloads/Linux-FreeDrawSimulator-v1.4
-Name=Linux-FreeDrawSimulator
+Exec=/home/ubuntu/Downloads/Linux-FreeDrawSimulator-v1.4/Linux-FreeDrawSimulator.x86_64
+Name=FreeDrawSimulator
 Comment=FreeDrawSimulator v1.4
 Icon=/home/ubuntu/Downloads/Linux-FreeDrawSimulator-v1.4/Linux-FreeDrawSimulator_Data/Resources/UnityPlayer.png
 ```
 Replace yourapp with your application and save by pressing Ctrl+O, Enter and Ctrl+X.
+
 3. Make this file executable: `sudo chmod +x /usr/share/applications/FreeDrawSimulator.desktop`
 4. Log out and log in.
 
