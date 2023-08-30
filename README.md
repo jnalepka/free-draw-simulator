@@ -1,10 +1,10 @@
-# FreeDrawSimulator
-Report bugs and features for FreeDrawSimulator app.
+# GrentonToolbox
+This is an unofficial application GrentonToolbox. Feel free to report bugs and sugestions.
 
 # Install
 ### Windows
 1. Extract the `.zip` file.
-2. Run `FreeDrawSimulator.exe`.
+2. Run `GrentonToolbox.exe`.
 
 #### How to add shortcut:
 1. Right-click and select `Create shortcut` to add a shortcut to the program.
@@ -12,12 +12,12 @@ Report bugs and features for FreeDrawSimulator app.
 
 ### Linux
 1. Extract the `.zip` file.
-2. Right click on `Linux-FreeDrawSimulator.x86_64` file and select `Properties`.
+2. Right click on `Linux-GrentonToolbox.x86_64` file and select `Properties`.
 3. Go to `Permissions` and select "Allow executing file as program".
-4. Run `Linux-FreeDrawSimulator.x86_64`.
+4. Run `Linux-GrentonToolbox.x86_64`.
 
 #### How to add shortcut:
-1. Open terminal and type `sudo nano /usr/share/applications/FreeDrawSimulator.desktop`
+1. Open terminal and type `sudo nano /usr/share/applications/GrentonToolbox.desktop`
 2. Paste the following content:
   ```
 #!/usr/bin/env xdg-open
@@ -25,14 +25,14 @@ Report bugs and features for FreeDrawSimulator app.
 Version=1.0
 Type=Application
 Terminal=false
-Exec=/home/ubuntu/Downloads/Linux-FreeDrawSimulator-v1.4/Linux-FreeDrawSimulator.x86_64
+Exec=/home/ubuntu/Downloads/Linux-GrentonToolbox-v1.4/Linux-GrentonToolbox.x86_64
 Name=FreeDrawSimulator
-Comment=FreeDrawSimulator v1.4
-Icon=/home/ubuntu/Downloads/Linux-FreeDrawSimulator-v1.4/Linux-FreeDrawSimulator_Data/Resources/UnityPlayer.png
+Comment=GrentonToolbox v1.4
+Icon=/home/ubuntu/Downloads/Linux-GrentonToolbox-v1.4/Linux-GrentonToolbox_Data/Resources/UnityPlayer.png
 ```
 Replace yourapp with your application and save by pressing Ctrl+O, Enter and Ctrl+X.
 
-3. Make this file executable: `sudo chmod +x /usr/share/applications/FreeDrawSimulator.desktop`
+3. Make this file executable: `sudo chmod +x /usr/share/applications/GrentonToolbox.desktop`
 4. Log out and log in.
 
 # User-manual
