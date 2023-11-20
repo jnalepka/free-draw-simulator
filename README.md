@@ -2,6 +2,9 @@
 This is an unofficial application GrentonToolbox. Feel free to report bugs and sugestions.
 
 # Install
+
+Download: https://github.com/jnalepka/FreeDrawSimulator/releases
+
 ### Windows
 1. Extract the `.zip` file.
 2. Run `FreeDrawSimulator.exe`.
