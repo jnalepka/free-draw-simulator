@@ -1,5 +1,8 @@
 # FreeDrawSimulator
-This is an unofficial application GrentonToolbox. Feel free to report bugs and sugestions.
+This is an unofficial application FreeDrawSimulator. Feel free to report bugs and sugestions.
+
+![image](https://github.com/jnalepka/FreeDrawSimulator/assets/70645322/823317c0-ad10-4d93-9632-51b28e063158)
+
 
 # Install
 
