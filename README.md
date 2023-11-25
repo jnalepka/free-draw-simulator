@@ -1,7 +1,7 @@
 # FreeDrawSimulator
 This is an unofficial application FreeDrawSimulator. Feel free to report bugs and sugestions.
 
-![image](https://github.com/jnalepka/FreeDrawSimulator/assets/70645322/823317c0-ad10-4d93-9632-51b28e063158)
+![image](https://github.com/jnalepka/FreeDrawSimulator/assets/70645322/13d7fde9-b687-4983-bb7f-02516d20e4ac)
 
 
 # Install
