@@ -56,6 +56,17 @@ Replace yourapp with your application and save by pressing Ctrl+O, Enter and Ctr
 ### How to use custom icons
 1. Open `.../Icons` and paste your own icons.
 
+### Export all workspaces
+1. Click the "Save/Load" button.
+2. Save your workspaces, then click the "Export" button.
+3. The file will be saved in ".../Win64-FreeDrawSimulator\FreeDrawSimulator_Data\FreeDrawSimulator_ExportedData"
+> NOTE: The file with the same name will be overwritten!
+
+### Import your workspaces
+1. Click the "Save/Load" button.
+2. Click the "Import" button, check the file name, then click the "Upload" button.
+> NOTE: All your local workspaces will be overwritten!
+
 # Known issues
 - PrintText shows text over texture.
 
