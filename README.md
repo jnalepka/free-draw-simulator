@@ -3,6 +3,10 @@ This is an unofficial application FreeDrawSimulator. Feel free to report bugs an
 
 ![image](https://github.com/jnalepka/FreeDrawSimulator/assets/70645322/13d7fde9-b687-4983-bb7f-02516d20e4ac)
 
+If you like what I do, buy me a `coffee`!
+
+[![](https://img.shields.io/static/v1?label=Donate&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://tipply.pl/@jnalepka)
+
 
 # Install
 
@@ -69,13 +73,6 @@ Replace yourapp with your application and save by pressing Ctrl+O, Enter and Ctr
 
 # Known issues
 - PrintText shows text over texture.
-
-# Donate
-If you find this project helpful, consider supporting its development by making a donation through PayPal.
-
-<a href="https://paypal.me/plejader">
-  <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/PNG/blue.png" alt="Donate with PayPal" width="250">
-</a>
 
 
 
